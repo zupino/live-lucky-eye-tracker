@@ -14,9 +14,18 @@ reading scenarios.
 
 This is the Z-shaped figure used for testing
 
-[img1]
+![Z-shaped Figure for reading test](resources/z-shaped-figure.jpeg)
 
-and this is a video of the conclusion of the 2 days research.
+This is the webcam setup, camera should be fixed relative to the eyes, once 'mounted' you
+can adjust the camera to have the eye centered in the control rectangle.
+
+![Live Lucky!](resources/live-lucky-eye-tracker.jpeg)
+
+![Cooler angle](resources/live-lucky-eye-tracker-side.jpeg)
+
+and this is a video of the conclusion of the 2 days research:
+
+![Demo video reading small text first and then z-shaped figure](resources/live-lucky-eye-tracker.gif)
 
 You can see the pupil x,y coordinates being collected by the tool and 
 validated in Google Sheet graph, so show the expected position of the pupil
