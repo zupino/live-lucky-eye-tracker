@@ -25,7 +25,7 @@ can adjust the camera to have the eye centered in the control rectangle.
 
 and this is a video of the conclusion of the 2 days research:
 
-![Demo video reading small text first and then z-shaped figure](resources/live-lucky-eye-tracker.gif)
+![Demo video reading small text first and then z-shaped figure](resources/live-lucky-eye-tracker-2.gif)
 
 You can see the pupil x,y coordinates being collected by the tool and 
 validated in Google Sheet graph, so show the expected position of the pupil
@@ -42,8 +42,11 @@ I believe this problem could be solved by removing the known delta, but
 while researching I came across (5), so I started over.
 
 (1) https://github.com/trishume/eyeLike
+
 (2) https://www.youtube.com/watch?v=kbdbZFT9NQI
+
 (3) https://pysource.com/2019/01/04/eye-motion-tracking-opencv-with-python/
+
 
 
 
