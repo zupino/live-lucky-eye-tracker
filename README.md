@@ -31,8 +31,6 @@ You can see the pupil x,y coordinates being collected by the tool and
 validated in Google Sheet graph, so show the expected position of the pupil
 while reading and the comparison with the previous approach, where noise data was retrieved.
 
-[video1]
-
 ## Sources
 
 I first tried with the good EyeLike (1), which is C++ based, still OpenCV.
